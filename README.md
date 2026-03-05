@@ -16,7 +16,7 @@ The dashboards were created using **Tableau** and are presented as screenshots.
 
 # 📁 Projects
 
-## 2️1️⃣ Google Play Store Apps Analysis
+## 1️⃣ Google Play Store Apps Analysis
 
 ### 📊 Dashboard
 
