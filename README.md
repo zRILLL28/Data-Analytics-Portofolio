@@ -126,15 +126,15 @@ This analysis helps marketing teams to:
 
 ---
 
-# 🎬 Baby Bus Platform Performance Analysis
+## 🎬 Baby Bus Platform Performance Analysis
 
-## Dashboard Overview
+### 📊 Dashboard Overview
 
 ![Dashboard](Dashboards/BabyBus_Performance.png)
 
 The dashboard contains three main analyses:
 
-### 1. Monthly Baby Bus Watchers by Platform
+#### 1. Monthly Baby Bus Watchers by Platform
 
 Displays monthly trends of viewers across platforms:
 
@@ -150,7 +150,7 @@ Insights:
 
 ---
 
-### 2. Daily Baby Bus Plays by Platform
+#### 2. Daily Baby Bus Plays by Platform
 
 Tracks daily play activity to observe short-term fluctuations.
 
@@ -162,7 +162,7 @@ Insights:
 
 ---
 
-### 3. Weekly Baby Bus Plays by Platform
+#### 3. Weekly Baby Bus Plays by Platform
 
 Shows longer engagement patterns across weeks.
 
@@ -174,7 +174,7 @@ Insights:
 
 ---
 
-## Key Findings
+## 📈 Key Findings
 
 * **Mobile App is the dominant platform for engagement.**
 * **TV platform leads in viewer counts for monthly metrics.**
