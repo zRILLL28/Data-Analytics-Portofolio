@@ -174,6 +174,90 @@ Insights:
 
 ---
 
+## 🎬 Kids Streaming Content Analysis (SVOD vs AVOD)
+
+### 📊 Project Overview
+
+This project analyzes the performance of children's streaming content across two different business models:
+
+* **SVOD (Subscription Video On Demand)**
+* **AVOD (Advertising Video On Demand)**
+
+The content analyzed in this dashboard includes:
+
+* **Tayo The Little Bus**
+* **Baby Bus**
+* **CoComelon**
+
+The objective of this analysis is to understand:
+
+* Daily viewer trends
+* Content popularity across platforms
+* Differences in engagement between subscription and ad-supported models
+
+---
+
+### 📈 Dashboard
+
+![Streaming Dashboard](Dashboards/Daily_SVOD&AVOD.png)
+
+The dashboard presents four main metrics:
+
+1. **Daily Watchers (SVOD)**
+2. **Daily Watchers (AVOD)**
+3. **Daily Plays (SVOD)**
+4. **Daily Plays (AVOD)**
+
+These metrics help identify audience engagement and content performance over time.
+
+---
+
+### 🔎 Key Insights
+
+#### 1️⃣ CoComelon experienced a significant spike in SVOD
+
+Around **February 19**, CoComelon shows a sharp increase in both **watchers** and **plays** on SVOD.
+
+Possible reasons may include:
+
+* New episode releases
+* Marketing campaigns
+* Viral content exposure
+
+---
+
+#### 2️⃣ AVOD generates significantly higher traffic
+
+Compared to SVOD, the **AVOD platform shows much larger engagement levels**:
+
+* Daily plays reach **100K – 170K**
+* Daily watchers range from **6K – 9K**
+
+This indicates that **free ad-supported platforms attract a larger audience**.
+
+---
+
+#### 3️⃣ Baby Bus dominates the AVOD platform
+
+Baby Bus consistently shows:
+
+* The **highest number of plays**
+* Stable viewer trends
+
+This suggests that **Baby Bus performs very well on ad-supported platforms** where accessibility is higher.
+
+---
+
+#### 4️⃣ Tayo The Little Bus shows stable performance
+
+Tayo maintains a **steady trend across the observed period**, indicating:
+
+* Consistent audience engagement
+* Loyal viewer base
+* Lower volatility compared to other content
+
+---
+
 ## 📈 Key Findings
 
 * **Mobile App is the dominant platform for engagement.**
@@ -199,5 +283,6 @@ This portfolio demonstrates several key data analytics skills:
 # 🛠 Tools & Technologies
 
 - Tableau
+- Metabase
 - Microsoft Excel
 - Data Visualization Techniques
