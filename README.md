@@ -126,6 +126,63 @@ This analysis helps marketing teams to:
 
 ---
 
+# 🎬 Baby Bus Platform Performance Analysis
+
+## Dashboard Overview
+
+![Dashboard](Dashboards/BabyBus_Performance.png)
+
+The dashboard contains three main analyses:
+
+### 1. Monthly Baby Bus Watchers by Platform
+
+Displays monthly trends of viewers across platforms:
+
+* Web
+* App
+* TV
+
+Insights:
+
+* TV platform consistently has the highest number of viewers.
+* Significant peak occurs around **October – December**, indicating potential seasonal engagement.
+* Web traffic shows moderate but stable usage.
+
+---
+
+### 2. Daily Baby Bus Plays by Platform
+
+Tracks daily play activity to observe short-term fluctuations.
+
+Insights:
+
+* App platform dominates daily plays.
+* Certain spikes indicate possible content releases or promotions.
+* Web and TV platforms show lower daily activity compared to the mobile app.
+
+---
+
+### 3. Weekly Baby Bus Plays by Platform
+
+Shows longer engagement patterns across weeks.
+
+Insights:
+
+* Mobile App usage increases steadily during mid-year.
+* Engagement peaks toward the end of the year.
+* A drop appears at the end of the dataset, possibly due to incomplete data.
+
+---
+
+## Key Findings
+
+* **Mobile App is the dominant platform for engagement.**
+* **TV platform leads in viewer counts for monthly metrics.**
+* **User engagement peaks during Q4 (October – December).**
+* Engagement trends suggest seasonal consumption patterns.
+
+---
+
 # 🧠 Skills Demonstrated
 
 This portfolio demonstrates several key data analytics skills:
