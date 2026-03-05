@@ -16,7 +16,7 @@ The dashboards were created using **Tableau** and are presented as screenshots.
 
 # 📁 Projects
 
-## 1️⃣ Google Play Store Apps Analysis
+## 2️1️⃣ Google Play Store Apps Analysis
 
 ### 📊 Dashboard
 
@@ -57,7 +57,7 @@ This analysis can help:
 
 ---
 
-## 🎬 Movie Distribution Analysis
+## 2️⃣ 🎬 Movie Distribution Analysis
 
 ### 🌍 Dashboard
 
@@ -92,7 +92,7 @@ This analysis can help:
 
 ---
 
-## 📱 Social Media Engagement Analysis
+## 3️⃣ 📱 Social Media Engagement Analysis
 
 ### 📊 Dashboard
 
@@ -126,7 +126,7 @@ This analysis helps marketing teams to:
 
 ---
 
-## 🎬 Baby Bus Platform Performance Analysis
+## 4️⃣ 🎬 Baby Bus Platform Performance Analysis
 
 ### 📊 Dashboard Overview
 
@@ -174,7 +174,7 @@ Insights:
 
 ---
 
-## 🎬 Kids Streaming Content Analysis (SVOD vs AVOD)
+## 5️⃣ 🎬 Kids Streaming Content Analysis (SVOD vs AVOD)
 
 ### 📊 Project Overview
 
